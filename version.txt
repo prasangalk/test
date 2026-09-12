@@ -1,4 +1,4 @@
 {
     "version": "2.1"
-    "FW_SHA256": "b911333f7cb7a69f554369d066b757c982a97f00174a5eb01f6459dedda2898b"
+    "FW_SHA256": "ec5fa897265b00198f4dc8225132d4c90ee91e4f9c8e30bbbb1ebc91f78ad0ad"
 }
